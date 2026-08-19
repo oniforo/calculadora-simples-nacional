@@ -1,5 +1,8 @@
 # Calculadora Simples Nacional
 
+[![Build Status](https://img.shields.io/github/actions/workflow/status/oniforo/calculadora-simples-nacional/node.js.yml?style=flat-square)](https://github.com/oniforo/calculadora-simples-nacional/actions)
+[![License](https://img.shields.io/github/license/oniforo/calculadora-simples-nacional?style=flat-square)](https://github.com/oniforo/calculadora-simples-nacional/blob/main/LICENSE)
+
 A JavaScript library for calculating **Simples Nacional** taxes — Brazil's simplified tax
 regime for micro and small businesses. Given a company's annex, accumulated and current
 gross revenue (and optionally its accumulated payroll for the "Fator R" rule), it computes
