@@ -1,0 +1,85 @@
+{
+    "faixas": {
+        "1": {
+            "aliquota": 6,
+            "valor a deduzir": null,
+            "repartição de tributos": {
+                "IRPJ": 4,
+                "CSLL": 3.5,
+                "Cofins": 12.82,
+                "PIS/Pasep": 2.78,
+                "CPP": 43.4,
+                "ISS": 33.5
+            }
+        },
+        "2": {
+            "aliquota": 11.2,
+            "valor a deduzir": 9360,
+            "repartição de tributos": {
+                "IRPJ": 4,
+                "CSLL": 3.5,
+                "Cofins": 14.05,
+                "PIS/Pasep": 3.05,
+                "CPP": 43.4,
+                "ISS": 32
+            }
+        },
+        "3": {
+            "aliquota": 13.5,
+            "valor a deduzir": 17640,
+            "repartição de tributos": {
+                "IRPJ": 4,
+                "CSLL": 3.5,
+                "Cofins": 13.64,
+                "PIS/Pasep": 2.96,
+                "CPP": 43.4,
+                "ISS": 32.5
+            }
+        },
+        "4": {
+            "aliquota": 16,
+            "valor a deduzir": 35640,
+            "repartição de tributos": {
+                "IRPJ": 4,
+                "CSLL": 3.5,
+                "Cofins": 13.64,
+                "PIS/Pasep": 2.96,
+                "CPP": 43.4,
+                "ISS": 32.5
+            }
+        },
+        "5": {
+            "aliquota": 21,
+            "valor a deduzir": 125640,
+            "repartição de tributos": {
+                "IRPJ": 4,
+                "CSLL": 3.5,
+                "Cofins": 12.82,
+                "PIS/Pasep": 2.78,
+                "CPP": 43.4,
+                "ISS": 33.5
+            },          
+            "aliquota*": 14.92537,
+            "repartição de tributos*": {
+                "IRPJ": 6.02,
+                "CSLL": 5.26,
+                "Cofins": 19.28,
+                "PIS/Pasep": 4.18,
+                "CPP": 65.26,
+                "ISS": 5
+            }
+        },
+        "6": {
+            "aliquota": 33,
+            "valor a deduzir": 648000,
+            "repartição de tributos": {
+                "IRPJ": 35,
+                "CSLL": 15,
+                "Cofins": 16.03,
+                "PIS/Pasep": 3.47,
+                "CPP": 30.5,
+                "ISS": null
+            }
+        }
+    }
+}

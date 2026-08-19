@@ -1,0 +1,82 @@
+{
+    "faixas": {
+        "1": {
+            "aliquota": 4.5,
+            "valor a deduzir": null,
+            "repartição de tributos": {
+                "IRPJ": 5.5,
+                "CSLL": 3.5,
+                "Cofins": 11.51,
+                "PIS/Pasep": 2.49,
+                "CPP": 37.5,
+                "IPI": 7.5,
+                "ICMS": 32
+            }
+        },
+        "2": {
+            "aliquota": 7.8,
+            "valor a deduzir": 5940,
+            "repartição de tributos": {
+                "IRPJ": 5.5,
+                "CSLL": 3.5,
+                "Cofins": 11.51,
+                "PIS/Pasep": 2.49,
+                "CPP": 37.5,
+                "IPI": 7.5,
+                "ICMS": 32
+            }
+        },
+        "3": {
+            "aliquota": 10,
+            "valor a deduzir": 13860,
+            "repartição de tributos": {
+                "IRPJ": 5.5,
+                "CSLL": 3.5,
+                "Cofins": 11.51,
+                "PIS/Pasep": 2.49,
+                "CPP": 37.5,
+                "IPI": 7.5,
+                "ICMS": 32
+            }
+        },
+        "4": {
+            "aliquota": 11.2,
+            "valor a deduzir": 22500,
+            "repartição de tributos": {
+                "IRPJ": 5.5,
+                "CSLL": 3.5,
+                "Cofins": 11.51,
+                "PIS/Pasep": 2.49,
+                "CPP": 37.5,
+                "IPI": 7.5,
+                "ICMS": 32
+            }
+        },
+        "5": {
+            "aliquota": 14.7,
+            "valor a deduzir": 85500,
+            "repartição de tributos": {
+                "IRPJ": 5.5,
+                "CSLL": 3.5,
+                "Cofins": 11.51,
+                "PIS/Pasep": 2.49,
+                "CPP": 37.5,
+                "IPI": 7.5,
+                "ICMS": 32
+            }
+        },
+        "6": {
+            "aliquota": 30,
+            "valor a deduzir": 720000,
+            "repartição de tributos": {
+                "IRPJ": 8.5,
+                "CSLL": 7.5,
+                "Cofins": 20.96,
+                "PIS/Pasep": 4.54,
+                "CPP": 23.5,
+                "IPI": 35,
+                "ICMS": null
+            }
+        }
+    }
+}

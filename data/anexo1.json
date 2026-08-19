@@ -1,0 +1,76 @@
+{
+    "faixas": {
+        "1": {
+            "aliquota": 4,
+            "valor a deduzir": null,
+            "repartição de tributos": {
+                "IRPJ": 5.5,
+                "CSLL": 3.5,
+                "Cofins": 12.74,
+                "PIS/Pasep": 2.76,
+                "CPP": 41.5,
+                "ICMS": 34
+            }
+        },
+        "2": {
+            "aliquota": 7.3,
+            "valor a deduzir": 5940,
+            "repartição de tributos": {
+                "IRPJ": 5.5,
+                "CSLL": 3.5,
+                "Cofins": 12.74,
+                "PIS/Pasep": 2.76,
+                "CPP": 41.5,
+                "ICMS": 34
+            }
+        },
+        "3": {
+            "aliquota": 9.5,
+            "valor a deduzir": 13860,
+            "repartição de tributos": {
+                "IRPJ": 5.5,
+                "CSLL": 3.5,
+                "Cofins": 12.74,
+                "PIS/Pasep": 2.76,
+                "CPP": 41.5,
+                "ICMS": 34
+            }
+        },
+        "4": {
+            "aliquota": 10.7,
+            "valor a deduzir": 22500,
+            "repartição de tributos": {
+                "IRPJ": 5.5,
+                "CSLL": 3.5,
+                "Cofins": 12.74,
+                "PIS/Pasep": 2.76,
+                "CPP": 41.5,
+                "ICMS": 34
+            }
+        },
+        "5": {
+            "aliquota": 14.3,
+            "valor a deduzir": 87300,
+            "repartição de tributos": {
+                "IRPJ": 5.5,
+                "CSLL": 3.5,
+                "Cofins": 12.74,
+                "PIS/Pasep": 2.76,
+                "CPP": 41.5,
+                "ICMS": 34
+            }
+        },
+        "6": {
+            "aliquota": 19,
+            "valor a deduzir": 378000,
+            "repartição de tributos": {
+                "IRPJ": 13.5,
+                "CSLL": 10,
+                "Cofins": 28.27,
+                "PIS/Pasep": 6.13,
+                "CPP": 42.1,
+                "ICMS": null
+            }
+        }
+    }
+}

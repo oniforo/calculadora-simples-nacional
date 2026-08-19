@@ -1,0 +1,78 @@
+{
+    "faixas": {
+        "1": {
+            "aliquota": 4.5,
+            "valor a deduzir": null,
+            "repartição de tributos": {
+                "IRPJ": 18.8,
+                "CSLL": 15.2,
+                "Cofins": 17.67,
+                "PIS/Pasep": 3.83,
+                "ISS": 44.5
+            }
+        },
+        "2": {
+            "aliquota": 9,
+            "valor a deduzir": 8100,
+            "repartição de tributos": {
+                "IRPJ": 19.8,
+                "CSLL": 15.2,
+                "Cofins": 20.55,
+                "PIS/Pasep": 4.45,
+                "ISS": 40
+            }
+        },
+        "3": {
+            "aliquota": 10.2,
+            "valor a deduzir": 12420,
+            "repartição de tributos": {
+                "IRPJ": 20.8,
+                "CSLL": 15.2,
+                "Cofins": 19.73,
+                "PIS/Pasep": 4.27,
+                "ISS": 40
+            }
+        },
+        "4": {
+            "aliquota": 14,
+            "valor a deduzir": 39780,
+            "repartição de tributos": {
+                "IRPJ": 17.8,
+                "CSLL": 19.2,
+                "Cofins": 18.9,
+                "PIS/Pasep": 4.1,
+                "ISS": 40
+            }
+        },
+        "5": {
+            "aliquota": 22,
+            "valor a deduzir": 183780,
+            "repartição de tributos": {
+                "IRPJ": 18.8,
+                "CSLL": 19.2,
+                "Cofins": 18.08,
+                "PIS/Pasep": 3.92,
+                "ISS": 40
+            },
+            "aliquota*": 12.5,
+            "repartição de tributos*": {
+                "IRPJ": 31.33,
+                "CSLL": 32,
+                "Cofins": 30.13,
+                "PIS/Pasep": 6.54,
+                "ISS": 5
+            }
+        },
+        "6": {
+            "aliquota": 33,
+            "valor a deduzir": 828000,
+            "repartição de tributos": {
+                "IRPJ": 53.5,
+                "CSLL": 21.5,
+                "Cofins": 20.55,
+                "PIS/Pasep": 4.45,
+                "ISS": null
+            }
+        }
+    }
+}

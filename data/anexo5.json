@@ -1,0 +1,76 @@
+{
+    "faixas": {
+        "1": {
+            "aliquota": 15.5,
+            "valor a deduzir": null,
+            "repartição de tributos": {
+                "IRPJ": 25,
+                "CSLL": 15,
+                "Cofins": 14.1,
+                "PIS/Pasep": 3.05,
+                "CPP": 28.85,
+                "ISS": 14
+            }
+        },
+        "2": {
+            "aliquota": 18,
+            "valor a deduzir": 4500,
+            "repartição de tributos": {
+                "IRPJ": 23,
+                "CSLL": 15,
+                "Cofins": 14.10,
+                "PIS/Pasep": 3.05,
+                "CPP": 27.85,
+                "ISS": 17
+            }
+        },
+        "3": {
+            "aliquota": 19.5,
+            "valor a deduzir": 9900,
+            "repartição de tributos": {
+                "IRPJ": 24,
+                "CSLL": 15,
+                "Cofins": 14.92,
+                "PIS/Pasep": 3.23,
+                "CPP": 23.85,
+                "ISS": 19
+            }
+        },
+        "4": {
+            "aliquota": 20.5,
+            "valor a deduzir": 17100,
+            "repartição de tributos": {
+                "IRPJ": 21,
+                "CSLL": 15,
+                "Cofins": 15.74,
+                "PIS/Pasep": 3.41,
+                "CPP": 23.85,
+                "ISS": 21
+            }
+        },
+        "5": {
+            "aliquota": 23,
+            "valor a deduzir": 62100,
+            "repartição de tributos": {
+                "IRPJ": 23,
+                "CSLL": 12.5,
+                "Cofins": 14.1,
+                "PIS/Pasep": 3.05,
+                "CPP": 23.85,
+                "ISS": 23.5
+            }
+        },
+        "6": {
+            "aliquota": 30.5,
+            "valor a deduzir": 540000,
+            "repartição de tributos": {
+                "IRPJ": 35,
+                "CSLL": 15.5,
+                "Cofins": 16.44,
+                "PIS/Pasep": 3.56,
+                "CPP": 29.5,
+                "ISS": null
+            }
+        }
+    }
+}
